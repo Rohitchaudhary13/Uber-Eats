@@ -1,5 +1,3 @@
-![Screenshot_2022-02-22-19-05-34-84](https://user-images.githubusercontent.com/71605903/155143508-803f9418-46a1-43b1-a27c-044f6a681699.jpg)
-
 # My Universal React Project
 
 <p>
@@ -44,3 +42,6 @@ This project can be run from a web browser or the Expo client app. You may find 
 - Learn more about [Universal React](https://docs.expo.dev/).
 - See what API and components are [available in the React runtimes](https://docs.expo.dev/versions/latest/).
 - Find out more about developing apps and websites: [Guides](https://docs.expo.dev/guides/).
+
+
+<img src="https://user-images.githubusercontent.com/71605903/155143508-803f9418-46a1-43b1-a27c-044f6a681699.jpg" width="100" height="100">
